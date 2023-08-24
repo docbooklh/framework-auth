@@ -1,0 +1,15 @@
+{
+    "name": "ydkc/framework-auth",
+    "description": "康程授权信息",
+    "type": "library",
+    "require": {
+        "n": "1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ydkc\\FrameworkAuth\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
